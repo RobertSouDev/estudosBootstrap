@@ -7,4 +7,6 @@
 
 - Usando Cores em Bootstrap 
 
+- Classes para Imagens em bootstrap
+
 
